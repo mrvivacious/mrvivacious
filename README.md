@@ -1,4 +1,4 @@
-![Image of white flowers](/flowers.png)
+![Image of white flowers](/ocean.png)
 
 
 
