@@ -1,4 +1,4 @@
-![Image of white flowers](/ocean.png)
+![Image of white flowers](/flowers.png)
 
 
 
@@ -20,8 +20,8 @@
 
 I like to build stuff that people would wanna use
 
-I work on a porn blocker, **PorNo!**. Currently trying to figure out how to determine if a website is pornographic without prior knowledge of the site
- while minimizing false positives.
+I ~~work on a porn blocker, **PorNo!**. Currently trying to figure out how to determine if a website is pornographic without prior knowledge of the site
+ while minimizing false positives.~~ am mad chillin rn
  
 I like frisbee, poetry, call of duty.
 
