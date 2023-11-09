@@ -1,34 +1,19 @@
 <!-- ![Image of white flowers](/flowers.png) -->
 
+### mrvivacious 👑
 
+🤝 I like hanging out and working on projects with friends :)
 
+💪 Also I like to build stuff that could help people and lookin muscular
 
+I post progress on [YouTube](https://www.youtube.com/@thank_you_mrvivacious/videos) 🍿
 
+[Message on Instagram](https://www.instagram.com/mrvivacious/)
 
-
-
-
-
-
-
-
-
-
-
-
-### Hi 🥰
-
-I like to build stuff that people would wanna use
-
-I ~~work on a porn blocker, **PorNo!**. Currently trying to figure out how to determine if a website is pornographic without prior knowledge of the site
- while minimizing false positives.~~ am mad chillin rn
- 
-I like frisbee, poetry, call of duty.
 
 Other links:
 * [Medium](https://vivekbhookya.medium.com/)
 * [Twitter](https://twitter.com/mrvivacious_)
-* [Instagram (?)](https://www.instagram.com/mrvivacious/)
 
 
 <!--
