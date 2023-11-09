@@ -8,7 +8,7 @@
 
 I post progress on [YouTube](https://www.youtube.com/@thank_you_mrvivacious/videos) 🍿
 
-[Message on Instagram](https://www.instagram.com/mrvivacious/)
+[Message me on Instagram](https://www.instagram.com/mrvivacious/)
 
 
 Other links:
